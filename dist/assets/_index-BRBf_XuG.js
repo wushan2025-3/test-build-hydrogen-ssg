@@ -1,1 +1,0 @@
-import{D as e,t}from"./jsx-runtime-9PZ6BgCb.js";var n=t(),r=e(function(){return(0,n.jsxs)(`div`,{style:{padding:`2rem`,fontFamily:`system-ui, sans-serif`},children:[(0,n.jsx)(`h1`,{children:`Hydrogen (SSG)`}),(0,n.jsx)(`p`,{children:`Hello from a statically pre-rendered Hydrogen project.`})]})});export{r as default};
