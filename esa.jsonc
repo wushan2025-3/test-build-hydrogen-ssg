@@ -1,4 +1,4 @@
 {
   "name": "test-build-hydrogen-ssg",
-  "assets": "build/client"
+  "assetsDirectory": "build/client"
 }
